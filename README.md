@@ -1,2 +1,2 @@
-# CameronRyan
+# Cameron
 My personal website
